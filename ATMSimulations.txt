@@ -1,0 +1,289 @@
+Account created with account number 5438897612 with 11800 SAR initial balance.
+Account created with account number 3026770709 with 68901 SAR initial balance.
+Account created with account number 8054536401 with 4864 SAR initial balance.
+Account created with account number 2239103375 with 80737 SAR initial balance.
+Account created with account number 1308439516 with 50657 SAR initial balance.
+Account created with account number 1841627921 with 65485 SAR initial balance.
+Account created with account number 3745522930 with 30267 SAR initial balance.
+Account created with account number 6549417112 with 6432 SAR initial balance.
+Account created with account number 1439293384 with 64009 SAR initial balance.
+Account created with account number 2158649745 with 73443 SAR initial balance.
+Account created with account number 4630626445 with 32084 SAR initial balance.
+Account created with account number 4218916833 with 58823 SAR initial balance.
+Account created with account number 6608013027 with 13266 SAR initial balance.
+Account created with account number 6286260497 with 80552 SAR initial balance.
+Account created with account number 1481284434 with 8235 SAR initial balance.
+Account created with account number 8105755106 with 57054 SAR initial balance.
+Account created with account number 2025614000 with 17290 SAR initial balance.
+Account created with account number 6864290493 with 61899 SAR initial balance.
+Account created with account number 6185315860 with 85930 SAR initial balance.
+Account created with account number 2963378954 with 30884 SAR initial balance.
+Account created with account number 4014024875 with 21343 SAR initial balance.
+Account created with account number 4449682976 with 52506 SAR initial balance.
+Account created with account number 6863240714 with 45423 SAR initial balance.
+Account created with account number 3900589360 with 79351 SAR initial balance.
+Account created with account number 7076845747 with 81065 SAR initial balance.
+Account created with account number 2801158507 with 24650 SAR initial balance.
+Account created with account number 7412231734 with 4268 SAR initial balance.
+Account created with account number 6042344280 with 40869 SAR initial balance.
+Account created with account number 8513398125 with 82933 SAR initial balance.
+Account created with account number 1221043076 with 87351 SAR initial balance.
+Account created with account number 8973166625 with 1400 SAR initial balance.
+Account created with account number 3252003086 with 77202 SAR initial balance.
+Account created with account number 3921604211 with 69235 SAR initial balance.
+Account created with account number 7006714182 with 36884 SAR initial balance.
+Account created with account number 6364460345 with 10127 SAR initial balance.
+Account created with account number 1956198254 with 8836 SAR initial balance.
+Account created with account number 8392557755 with 73619 SAR initial balance.
+Account created with account number 3392885631 with 25874 SAR initial balance.
+Account created with account number 8617517183 with 50598 SAR initial balance.
+Account created with account number 8056384313 with 51554 SAR initial balance.
+Account created with account number 5658103897 with 10416 SAR initial balance.
+Account created with account number 8679415342 with 38484 SAR initial balance.
+Account created with account number 5780714390 with 8481 SAR initial balance.
+Account created with account number 9773110939 with 82231 SAR initial balance.
+Account created with account number 7271310181 with 70610 SAR initial balance.
+Account created with account number 6458809108 with 59602 SAR initial balance.
+Account created with account number 5219008103 with 2079 SAR initial balance.
+Account created with account number 1307708036 with 75336 SAR initial balance.
+Account created with account number 8863374653 with 973 SAR initial balance.
+Account created with account number 2294678774 with 25969 SAR initial balance.
+-------------------------------------------------
+The customer arrived at 00:00
+The customer waited for 0 minutes
+The customer departed at 00:20
+The status of three currency stacks is as follows: 
+0 x 500
+0 x 100
+0 x 50
+The total amount refilled is 130000
+-------------------------------------------------
+The customer arrived at 01:04
+The customer waited for 0 minutes
+The customer departed at 01:05
+Balance of the account number 8513398125 is 82933
+-------------------------------------------------
+The customer arrived at 02:17
+The customer waited for 0 minutes
+The customer departed at 02:22
+Amount cannot be deposited at current time
+-------------------------------------------------
+The customer arrived at 02:38
+The customer waited for 0 minutes
+The customer departed at 02:40
+4150 SAR withdrawn from the account number 7006714182
+The amount includes 8 x 500 + 1 x 100 + 1 x 50
+The new balance is 32734
+-------------------------------------------------
+The customer arrived at 03:28
+The customer waited for 0 minutes
+The customer departed at 03:29
+Balance of the account number 3392885631 is 25874
+-------------------------------------------------
+The customer arrived at 03:29
+The customer waited for 0 minutes
+The customer departed at 03:31
+2850 SAR withdrawn from the account number 7412231734
+The amount includes 5 x 500 + 3 x 100 + 1 x 50
+The new balance is 1418
+-------------------------------------------------
+The customer arrived at 04:15
+The customer waited for 0 minutes
+The customer departed at 04:17
+4700 SAR withdrawn from the account number 6863240714
+The amount includes 9 x 500 + 2 x 100 + 0 x 50
+The new balance is 40723
+-------------------------------------------------
+The customer arrived at 04:27
+The customer waited for 0 minutes
+The customer departed at 04:28
+Balance of the account number 8863374653 is 973
+-------------------------------------------------
+The customer arrived at 04:30
+The customer waited for 0 minutes
+The customer departed at 04:31
+Balance of the account number 1307708036 is 75336
+-------------------------------------------------
+The customer arrived at 04:43
+The customer waited for 0 minutes
+The customer departed at 04:45
+1350 SAR withdrawn from the account number 1308439516
+The amount includes 2 x 500 + 3 x 100 + 1 x 50
+The new balance is 49307
+-------------------------------------------------
+The customer arrived at 04:45
+The customer waited for 0 minutes
+The customer departed at 04:46
+Balance of the account number 8617517183 is 50598
+-------------------------------------------------
+The customer arrived at 04:48
+The customer waited for 0 minutes
+The customer departed at 04:50
+2950 SAR withdrawn from the account number 8392557755
+The amount includes 5 x 500 + 4 x 100 + 1 x 50
+The new balance is 70669
+-------------------------------------------------
+The customer arrived at 04:52
+The customer waited for 0 minutes
+The customer departed at 04:54
+900 SAR withdrawn from the account number 6185315860
+The amount includes 1 x 500 + 4 x 100 + 0 x 50
+The new balance is 85030
+-------------------------------------------------
+The customer arrived at 05:54
+The customer waited for 0 minutes
+The customer departed at 05:56
+4600 SAR withdrawn from the account number 7006714182
+The amount includes 9 x 500 + 1 x 100 + 0 x 50
+The new balance is 28134
+-------------------------------------------------
+The customer arrived at 06:44
+The customer waited for 0 minutes
+The customer departed at 06:45
+Balance of the account number 4014024875 is 21343
+-------------------------------------------------
+The customer arrived at 06:44
+The customer waited for 1 minutes
+The customer departed at 06:46
+Balance of the account number 8973166625 is 1400
+-------------------------------------------------
+The customer arrived at 06:47
+The customer waited for 0 minutes
+The customer departed at 06:52
+800 SAR successfully deposited  into the account number 6286260497
+The amount includes 1 x 500 + 3 x 100 + 0 x 50
+The new balance is 81352
+-------------------------------------------------
+The customer arrived at 06:50
+The customer waited for 2 minutes
+The customer departed at 06:54
+3900 SAR withdrawn from the account number 4218916833
+The amount includes 7 x 500 + 4 x 100 + 0 x 50
+The new balance is 54923
+-------------------------------------------------
+The customer arrived at 06:51
+The customer waited for 3 minutes
+The customer departed at 06:55
+Balance of the account number 2801158507 is 24650
+-------------------------------------------------
+The customer arrived at 07:09
+The customer waited for 0 minutes
+The customer departed at 07:11
+-------------------------------------------------
+The customer arrived at 07:32
+The customer waited for 0 minutes
+The customer departed at 07:37
+4700 SAR successfully deposited  into the account number 5658103897
+The amount includes 9 x 500 + 2 x 100 + 0 x 50
+The new balance is 15116
+-------------------------------------------------
+The customer arrived at 07:51
+The customer waited for 0 minutes
+The customer departed at 07:53
+200 SAR withdrawn from the account number 2025614000
+The amount includes 0 x 500 + 2 x 100 + 0 x 50
+The new balance is 17090
+-------------------------------------------------
+The customer arrived at 07:57
+The customer waited for 0 minutes
+The customer departed at 07:59
+-------------------------------------------------
+The customer arrived at 08:17
+The customer waited for 0 minutes
+The customer departed at 08:19
+100 SAR withdrawn from the account number 3252003086
+The amount includes 0 x 500 + 1 x 100 + 0 x 50
+The new balance is 77102
+-------------------------------------------------
+The customer arrived at 08:24
+The customer waited for 0 minutes
+The customer departed at 08:26
+1750 SAR withdrawn from the account number 7076845747
+The amount includes 3 x 500 + 2 x 100 + 1 x 50
+The new balance is 79315
+-------------------------------------------------
+The customer arrived at 08:26
+The customer waited for 0 minutes
+The customer departed at 08:27
+Balance of the account number 7076845747 is 79315
+-------------------------------------------------
+The customer arrived at 09:54
+The customer waited for 0 minutes
+The customer departed at 09:56
+4000 SAR withdrawn from the account number 6864290493
+The amount includes 8 x 500 + 0 x 100 + 0 x 50
+The new balance is 57899
+-------------------------------------------------
+The customer arrived at 09:57
+The customer waited for 0 minutes
+The customer departed at 09:58
+Balance of the account number 5780714390 is 8481
+-------------------------------------------------
+The customer arrived at 10:09
+The customer waited for 0 minutes
+The customer departed at 10:10
+Balance of the account number 4449682976 is 52506
+-------------------------------------------------
+The customer arrived at 10:40
+The customer waited for 0 minutes
+The customer departed at 10:42
+800 SAR withdrawn from the account number 2801158507
+The amount includes 1 x 500 + 3 x 100 + 0 x 50
+The new balance is 23850
+-------------------------------------------------
+The customer arrived at 10:55
+The customer waited for 0 minutes
+The customer departed at 10:57
+4850 SAR withdrawn from the account number 1841627921
+The amount includes 9 x 500 + 3 x 100 + 1 x 50
+The new balance is 60635
+-------------------------------------------------
+The customer arrived at 12:15
+The customer waited for 0 minutes
+The customer departed at 12:17
+3650 SAR withdrawn from the account number 9773110939
+The amount includes 7 x 500 + 1 x 100 + 1 x 50
+The new balance is 78581
+-------------------------------------------------
+The customer arrived at 12:27
+The customer waited for 0 minutes
+The customer departed at 12:32
+4750 SAR successfully deposited  into the account number 6549417112
+The amount includes 9 x 500 + 2 x 100 + 1 x 50
+The new balance is 11182
+-------------------------------------------------
+The customer arrived at 13:03
+The customer waited for 0 minutes
+The customer departed at 13:08
+1150 SAR successfully deposited  into the account number 6864290493
+The amount includes 2 x 500 + 1 x 100 + 1 x 50
+The new balance is 59049
+-------------------------------------------------
+The customer arrived at 13:21
+The customer waited for 0 minutes
+The customer departed at 13:26
+Invalid Pin
+-------------------------------------------------
+The customer arrived at 15:05
+The customer waited for 0 minutes
+The customer departed at 15:07
+4750 SAR withdrawn from the account number 2158649745
+The amount includes 9 x 500 + 2 x 100 + 1 x 50
+The new balance is 68693
+-------------------------------------------------
+The customer arrived at 15:24
+The customer waited for 0 minutes
+The customer departed at 15:29
+3500 SAR successfully deposited  into the account number 2239103375
+The amount includes 7 x 500 + 0 x 100 + 0 x 50
+The new balance is 84237
+-------------------------------------------------
+The customer arrived at 15:40
+The customer waited for 0 minutes
+The customer departed at 15:45
+Invalid Pin
+-------------------------------------------------
+The customer arrived at 15:46
+The customer waited for 0 minutes
+The customer departed at 15:47
+Balance of the account number 5219008103 is 2079
